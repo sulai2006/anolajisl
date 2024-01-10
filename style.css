@@ -68,6 +68,12 @@ nav img {
     border-radius: 5px;*/
 }
 
+nav .mail_check img{
+    height: 50px;
+    width: 50px;
+    
+}
+
 nav .navigation{
     display: flex;
 }
@@ -686,6 +692,12 @@ footer .subscribe a.yellow:hover{
     background: #fff;
 }
 
+
+
+footer .subscribe a{
+    text-decoration: none;
+}
+
 footer .copyright {
     margin-top: 20px;
     display: flex;
@@ -1161,6 +1173,10 @@ footer .copyright .pro-links img:hover{
     line-height: 30px;
     border-bottom: none;
     margin-bottom: 15px;
+}
+
+#contact .getin .getin-details div a{
+    text-decoration: none;
 }
 
 #contact .getin .getin-details .pro-links img{
