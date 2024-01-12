@@ -21,7 +21,7 @@ var images = new Array (
     "images/solar-building.jpg",
     "images/Solar Inst1.png",
     "images/power-line.jpg",
-    "images/Solar Inst3.png",    
+    "images/fiber3.png",    
 );
 
 var len =images.length;
